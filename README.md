@@ -10,3 +10,5 @@ Based on the CPS architecture, the signals from the controller (PLC) and add-on 
 
 ![](images/table.PNG)
 
+This information is provided in the following website:
+https://www.iaiinstitute.com/competitions/17/eventData
